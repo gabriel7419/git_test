@@ -4,10 +4,11 @@ Todos os dias, irei fazer um commit. A única alteração será a adição de um
 
 Começando por hoje, 27/02/2024.
 
+    DD/MM/YYYY
 1 - 27/02/2024
 2 - 28/02/2024
 3 - 29/02/2024
 4 - 01/03/2024
 5 - 02/03/2024
 6 - 03/03/2024
-
+07 - 04/03/2024
